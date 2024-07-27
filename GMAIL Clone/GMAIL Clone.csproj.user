@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Compose.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="days of email to sync.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="default reply action.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HelpSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="images_button.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inbox categories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inbox notifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inbox notifications_sync inbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inbox tips settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="inbox type.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage accounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage labels.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage labels_click.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage notifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mobile signature.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notification sounds.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notifications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="out of office reply.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p1s1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p1s2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p1s3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p1s4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p1s5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p2s1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p2s2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="p2s3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="reply and follow up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="section1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="section2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="section3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="section4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="section5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="setting_dasboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="starred mails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="primary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="social.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="promotions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="meet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="meet_new meeting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="meet_join with code.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="snoozed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="important.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="sent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="scheduled.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="outbox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="drafts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="all mail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="spam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

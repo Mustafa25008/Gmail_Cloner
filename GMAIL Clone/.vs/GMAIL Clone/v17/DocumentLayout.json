@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|c:\\users\\muhammad mustafa\\music\\project\\gmail clone\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\compose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|solutionrelative:compose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\compose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|solutionrelative:compose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D51BFA3-8496-49C1-B094-D0F6EC009FFD}|GMAIL Clone.csproj|solutionrelative:social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "social.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\social.cs",
+              "RelativeDocumentMoniker": "social.cs",
+              "ToolTip": "C:\\Users\\Muhammad Mustafa\\OneDrive\\Desktop\\New folder\\GMAIL Clone\\social.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\Desktop\\New folder\\GMAIL Clone\\social.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T09:40:30.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compose.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Compose.cs",
+              "RelativeDocumentMoniker": "Compose.cs",
+              "ToolTip": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Compose.cs",
+              "RelativeToolTip": "Compose.cs",
+              "ViewState": "AQIAADIDAAAAAAAAAAApwD0DAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:48:45.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Compose.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Compose.cs",
+              "RelativeDocumentMoniker": "Compose.cs",
+              "ToolTip": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Compose.cs [Design]",
+              "RelativeToolTip": "Compose.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:45:35.101Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "home.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\home.cs",
+              "RelativeDocumentMoniker": "home.cs",
+              "ToolTip": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\home.cs",
+              "RelativeToolTip": "home.cs",
+              "ViewState": "AQIAAJcAAABoLjMzMzMmwJ8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:41:30.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\home.cs",
+              "RelativeDocumentMoniker": "home.cs",
+              "ToolTip": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\home.cs [Design]*",
+              "RelativeToolTip": "home.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T03:44:23.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AQIAAHoAAAAANDMzMzMTwIUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:47:49.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Muhammad Mustafa\\Music\\Project\\GMAIL Clone\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:46:38.148Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

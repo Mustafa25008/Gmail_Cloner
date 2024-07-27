@@ -1,0 +1,300 @@
+C:\Users\PMLS\source\repos\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.exe
+C:\Users\PMLS\source\repos\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.deps.json
+C:\Users\PMLS\source\repos\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.runtimeconfig.json
+C:\Users\PMLS\source\repos\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\PMLS\source\repos\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Compose.resources
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Properties.Resources.resources
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.GenerateResource.cache
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfoInputs.cache
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfo.cs
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\refint\GMAIL Clone.dll
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.genruntimeconfig.cache
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\ref\GMAIL Clone.dll
+C:\Users\PMLS\source\repos\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.starred.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form8.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Compose.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.DaysSync.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form1.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.drafts.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.HelpSection.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form17.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.images_button.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form3.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form2.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form6.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxSync.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxTips.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form4.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Login.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form3.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form10.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.LabelClick.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form8.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.meet.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form16.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form15.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Signature.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form9.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form5.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.OutOfficeReply.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.outbox.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s1.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s2.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s3.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s4.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s5.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s1.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s2.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s3.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form11.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.promotions.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Properties.Resources.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.ReplyFollow.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.scheduled.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section1.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section2.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section3.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section4.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section5.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form4.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.setting_dasboard.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.snoozed.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.social.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.spam.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form1.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form10.resources
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.GenerateResource.cache
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfoInputs.cache
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfo.cs
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.CoreCompileInputs.cache
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\refint\GMAIL Clone.dll
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.exe
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.deps.json
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.runtimeconfig.json
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.genruntimeconfig.cache
+C:\Users\fahad.murtaza\Downloads\All forms\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\ref\GMAIL Clone.dll
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.exe
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.deps.json
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.runtimeconfig.json
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.dll
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.pdb
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form8.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Compose.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.DaysSync.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form1.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.drafts.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.HelpSection.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form17.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.images_button.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form3.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form2.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form6.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxSync.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxTips.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form4.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Login.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form3.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form10.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.LabelClick.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form8.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.meet.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form16.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form15.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Signature.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form9.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form5.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.OutOfficeReply.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.outbox.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s1.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s2.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s3.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s4.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s5.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s1.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s2.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s3.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form11.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.promotions.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Properties.Resources.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.ReplyFollow.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.scheduled.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section1.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section2.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section3.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section4.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section5.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form4.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.setting_dasboard.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.snoozed.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.social.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.spam.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form1.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form10.resources
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.GenerateResource.cache
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.GeneratedMSBuildEditorConfig.editorconfig
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfoInputs.cache
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfo.cs
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.CoreCompileInputs.cache
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.dll
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\refint\GMAIL Clone.dll
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.pdb
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.genruntimeconfig.cache
+E:\Homework\5th Semester\Software Construction and Development\Screens to combine\Final\Inbox\GMAIL Clone\obj\Debug\net8.0-windows\ref\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.exe
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.deps.json
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.runtimeconfig.json
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form8.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Compose.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.DaysSync.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form1.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.drafts.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.HelpSection.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form17.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.images_button.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form3.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form2.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form6.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxSync.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxTips.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form4.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Login.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form3.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form10.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.LabelClick.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form8.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.meet.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form16.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form15.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Signature.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form9.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form5.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.OutOfficeReply.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.outbox.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s1.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s2.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s3.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s4.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s5.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s1.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s2.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s3.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form11.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.promotions.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Properties.Resources.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.ReplyFollow.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.scheduled.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section1.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section2.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section3.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section4.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section5.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form4.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.setting_dasboard.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.snoozed.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.social.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.spam.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form1.resources
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.GenerateResource.cache
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfoInputs.cache
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfo.cs
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\refint\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.genruntimeconfig.cache
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\ref\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.AssemblyReference.cache
+C:\Users\Muhammad Mustafa\OneDrive\Desktop\New folder\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Cl.01741F7C.Up2Date
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.exe
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.deps.json
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.runtimeconfig.json
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.AssemblyReference.cache
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form8.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Compose.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.DaysSync.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form1.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.drafts.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.HelpSection.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form17.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.images_button.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form3.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form2.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form6.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxSync.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.InboxTips.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form4.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Login.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form3.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form10.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.LabelClick.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form8.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.meet.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form16.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form15.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Signature.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form9.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.Form5.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.OutOfficeReply.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.outbox.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s1.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s2.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s3.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s4.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p1s5.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s1.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s2.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.p2s3.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form11.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.promotions.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Properties.Resources.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.ReplyFollow.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.scheduled.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section1.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section2.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section3.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section4.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\email_help_section.section5.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form4.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\Gmail.setting_dasboard.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.snoozed.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.social.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.spam.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL_Clone.Form1.resources
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.GenerateResource.cache
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfoInputs.cache
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.AssemblyInfo.cs
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Cl.01741F7C.Up2Date
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\refint\GMAIL Clone.dll
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.pdb
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\GMAIL Clone.genruntimeconfig.cache
+C:\Users\Muhammad Mustafa\Music\Project\GMAIL Clone\obj\Debug\net8.0-windows\ref\GMAIL Clone.dll
